@@ -67,7 +67,7 @@
 
 6. *モデル6(角柱3本，速度分布あり)*  
 * 等圧線図
-<img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/p_2600_re70_vtaper_1_3.png" title="角柱1本，速度分布あり">
+<img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/p_2500_re70_vtaper_1_3.png" title="角柱3本，速度分布あり">
 
 * アニメーション
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/p_all_re70_vtaper_1_3.gif" title="角柱3本，速度分布あり">
@@ -78,7 +78,7 @@
 * 速度ベクトル
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/velosity_re70_vtaper_1_3.png" title="角柱3本，速度分布あり">
 
-7. **モデル7(角柱1本，u=0.8, v=0.2)**  
+**7. モデル7(角柱1本，u=0.8, v=0.2)**  
 * 等圧線図
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/p_2600_re70_u08v02.png" title="角柱1本，速度分布あり">
 
