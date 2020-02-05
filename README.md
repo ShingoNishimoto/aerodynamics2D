@@ -3,7 +3,7 @@
 1. *モデル1*　
 * 等圧線図
 * アニメーション
-figure/p_all_re70_vtaper.gif
+https://raw.githubusercontent.com/ShingoNishimoto/aerodynamics2D/master/figure/p_all_re70_vtaper.gif
 * 抵抗係数，揚力係数，圧力係数の時間履歴
 * 速度ベクトル
 1. *モデル1*　
