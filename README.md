@@ -1,6 +1,6 @@
 # 空気力学第二D
 ### 以下図を掲載
-1. *モデル1(角柱1本，一様流れ)*　
+**1. モデル1(角柱1本，一様流れ)**　
 * 等圧線図   
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/p_3000_re70.png" title="角柱1本，一様流れ">  
 
@@ -13,7 +13,7 @@
 * 速度ベクトル  
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/velosity_re70_neo.png" title="角柱1本，一様流れ">  
 
-2. *モデル2(角柱3本，一様流れ)*  　
+**2. モデル2(角柱3本，一様流れ)**  　
 * 等圧線図  
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/p_2600_re70_1_3.png" title="角柱3本，一様流れ">
 
@@ -26,7 +26,7 @@
 * 速度ベクトル 
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/velosity_re70_1_3.png" title="角柱3本，一様流れ">
 
-3. *モデル3(角柱2本，一様流れ)*  
+**3. モデル3(角柱2本，一様流れ)**  
 * 等圧線図
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/p_2600_re70_2_1.png" title="角柱2本，一様流れ">
 
@@ -39,7 +39,7 @@
 * 速度ベクトル 
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/velosity_re70_2_1.png" title="角柱2本，一様流れ">
 
-4. *モデル4(角柱4本，一様流れ)*  
+**4. モデル4(角柱4本，一様流れ)**  
 * 等圧線図
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/p_2600_re70_2_2.png" title="角柱4本，一様流れ">
 
@@ -52,7 +52,7 @@
 * 速度ベクトル
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/velosity_re70_2_2.png" title="角柱4本，一様流れ">
 
-5. *モデル5(角柱1本，速度分布あり)*  
+**5. モデル5(角柱1本，速度分布あり)**  
 * 等圧線図
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/p_2600_re70_vtaper.png" title="角柱1本，速度分布あり">
 
@@ -65,7 +65,7 @@
 * 速度ベクトル  
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/velosity_re70_vtaper.png" title="角柱1本，速度分布あり">
 
-6. *モデル6(角柱3本，速度分布あり)*  
+**6. モデル6(角柱3本，速度分布あり)**  
 * 等圧線図
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/p_2500_re70_vtaper_1_3.png" title="角柱3本，速度分布あり">
 
