@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/ShingoNishimoto/aerodynamics_for_figure/master/figure/p_all_re70_2_1.gif" title="角柱2本，一様流れ">
 
 * 抵抗係数，揚力係数，圧力係数の時間履歴
-<img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/cl_cd_re70_2_1.png" title="角柱2本，一様流れ">
+<img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/cl_cd_re70_2_1_new.png" title="角柱2本，一様流れ">
 
 * 速度ベクトル 
 <img src="https://github.com/ShingoNishimoto/aerodynamics_for_figure/blob/master/figure/velosity_re70_2_1.png" title="角柱2本，一様流れ">
